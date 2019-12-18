@@ -1,0 +1,423 @@
+{
+    "peliculas": [{
+            "idPelicula": 1,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 2,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 3,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 4,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 5,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 6,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 7,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 8,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 9,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 10,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 11,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 12,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 13,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 14,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 15,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 16,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 17,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 18,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 19,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 20,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 21,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 1,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 2,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 3,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 4,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 5,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 6,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 7,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 8,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 9,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 10,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 11,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 12,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 13,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 14,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 15,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 16,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 17,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 18,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 19,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 20,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        },
+        {
+            "idPelicula": 21,
+            "titulo": "hola",
+            "actores": "hola",
+            "sinopsis": "hola",
+            "calificacion": 10,
+            "clasificacion": "tp",
+            "estado": 0,
+            "critica": "mala"
+        }
+    ]
+}
